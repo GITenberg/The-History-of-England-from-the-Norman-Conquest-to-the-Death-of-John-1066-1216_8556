@@ -1,4 +1,8 @@
 _repo: The-History-of-England-from-the-Norman-Conquest-to-the-Death-of-John-1066-1216_8556
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Adams, George Burton
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2803'
     url: http://www.gutenberg.org/2009/agents/2803
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8556#The-History-of-England-from-the-Norman-Conquest-to-the-Death-of-John-1066-1216
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
